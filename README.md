@@ -1,4 +1,4 @@
-# Social-Network-
+# Social-Network - Django
 Social Network for sharing  their  travel experiences through post.
 
 ## How To Setup Project
